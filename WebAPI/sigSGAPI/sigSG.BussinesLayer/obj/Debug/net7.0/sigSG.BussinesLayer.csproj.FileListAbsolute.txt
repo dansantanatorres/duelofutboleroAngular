@@ -1,0 +1,17 @@
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\bin\Debug\net7.0\sigSG.BussinesLayer.deps.json
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\bin\Debug\net7.0\sigSG.BussinesLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\bin\Debug\net7.0\sigSG.BussinesLayer.pdb
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\bin\Debug\net7.0\sigSG.DataLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\bin\Debug\net7.0\sigSG.ModelsLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\bin\Debug\net7.0\sigSG.DataLayer.pdb
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\bin\Debug\net7.0\sigSG.ModelsLayer.pdb
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\obj\Debug\net7.0\sigSG.BussinesLayer.csproj.AssemblyReference.cache
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\obj\Debug\net7.0\sigSG.BussinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\obj\Debug\net7.0\sigSG.BussinesLayer.AssemblyInfoInputs.cache
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\obj\Debug\net7.0\sigSG.BussinesLayer.AssemblyInfo.cs
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\obj\Debug\net7.0\sigSG.BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\obj\Debug\net7.0\sigSG.BussinesLayer.csproj.CopyComplete
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\obj\Debug\net7.0\sigSG.BussinesLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\obj\Debug\net7.0\refint\sigSG.BussinesLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\obj\Debug\net7.0\sigSG.BussinesLayer.pdb
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.BussinesLayer\obj\Debug\net7.0\ref\sigSG.BussinesLayer.dll

@@ -1,0 +1,75 @@
+<main>
+    <div class="d-flex flex-column min-vh-100 min-vw-100">
+        <div class="d-flex flex-grow-1 justify-content-center align-items-center">
+            <div class="row">
+                <div class="col" style="width: 400px;">
+                    <form [formGroup]="formulario" (ngSubmit)="saveData()">
+                        <h2 class="h3 mb-3 fw-normal">Registro</h2>
+                        <div class="form-floating">
+                            <!--<label for="nombre">Nombre:</label>-->
+                            <input type="text" 
+                                id="nombre" 
+                                [formControl]="nombreControl" 
+                                class="form-control"
+                                placeholder="nombre"
+                                [ngClass]="{ 'is-invalid': submitted && nombreControl.errors }"
+                                >
+                            <label for="nombre">Nombre</label>
+                            @if (nombreControl.invalid && nombreControl.touched) {
+                            <div class="invalid-feedback">
+                                @if (nombreControl.errors) {
+                                <div>Nombre es requerido</div>
+                                }
+                            </div>
+                            }
+                            <!--<div *ngIf="nombreControl.invalid && nombreControl.touched">
+                            <div *ngIf="nombreControl.errors" class="error">El nombre es requerido.</div>
+                            </div>-->
+                        </div>
+                        <div class="form-floating">
+                            <input type="text" 
+                                id="email" 
+                                [formControl]="emailControl" 
+                                class="form-control"
+                                placeholder="email"
+                                [ngClass]="{ 'is-invalid': submitted && emailControl.errors }"
+                                >
+                            <label for="email">Email:</label>
+                            @if (emailControl.invalid && emailControl.touched) {
+                            <div class="invalid-feedback">
+                                @if (emailControl.errors) {
+                                <div>Email es requerido</div>
+                                }
+                            </div>
+                            }
+                            <!--                            
+                            <input type="email" id="email" [formControl]="emailControl">
+                            <div *ngIf="emailControl.invalid && emailControl.touched">
+                                <div *ngIf="emailControl.errors" class="error">El email es requerido.</div>
+                            </div>
+                            -->
+                        </div>
+                        <div class="form-floating">
+                            <input type="text" 
+                                id="telefono" 
+                                [formControl]="telefonoControl" 
+                                class="form-control"
+                                placeholder="telefono"
+                                [ngClass]="{ 'is-invalid': submitted && telefonoControl.errors }"
+                                >
+                            <label for="telefono">Teléfono:</label>
+                            @if (telefonoControl.invalid && telefonoControl.touched) {
+                            <div class="invalid-feedback">
+                                @if (telefonoControl.errors) {
+                                <div>El teléfono debe contener 10 dígitos.</div>
+                                }
+                            </div>
+                            }
+                        </div>
+                        <button class="btn btn-primary w-100 py-2" type="submit" >Ingresar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

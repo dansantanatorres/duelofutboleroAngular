@@ -1,0 +1,57 @@
+<main>
+    <div class="d-flex flex-column min-vh-100 min-vw-100">
+        <div class="d-flex flex-grow-1 justify-content-center align-items-center">
+            <div class="row">
+                <div class="col" style="width: 400px;">
+                    <form id="login" [formGroup]="formulario" (ngSubmit)="saveData()" class="form-group" novalidate>
+                        <!--<h2 class="h3 mb-3 fw-normal">Inicio Sesion Modulo</h2>-->
+                        <div class="form-floating" style="margin-bottom: 20px;">
+                            <img src="../../assets/logo_sg_naranja_new.svg" width="370" />
+                        </div>
+                        <div class="form-floating">
+                            <input type="text" 
+                                id="nombre" 
+                                [formControl]="userControl" 
+                                class="form-control"
+                                placeholder="Usuario"
+                                [ngClass]="{ 'is-invalid': submitted && userControl.errors }"
+                                >
+                            <label for="nombre">Usuario</label>
+                            @if (userControl.invalid) {
+                            <div class="invalid-feedback">
+                                @if (userControl.errors) {
+                                <div>Usuario es requerido</div>
+                                }
+                            </div>
+                            }
+                        </div>
+                        <div class="form-floating">
+                            <input type="text" 
+                                id="email" 
+                                [formControl]="passwordControl" 
+                                class="form-control"
+                                placeholder="Clave"
+                                [ngClass]="{ 'is-invalid': submitted && passwordControl.errors }"
+                                >
+                            <label for="email">Clave</label>
+                            @if (passwordControl.invalid) {
+                            <div class="invalid-feedback">
+                                @if (passwordControl.errors) {
+                                <div>Clave es requerida</div>
+                                }
+                            </div>
+                            }
+                        </div>
+                        <button class="btn btn-primary w-100 py-2 botonSG" type="submit" >Ingresar</button>
+                        @if (usuarioInvalido) {
+                        <div class="alert alert-danger" role="alert">
+                            Usuario o Clave invalidos!!
+                        </div>
+                        }
+                        <p class="mt-5 mb-3 text-body-secondary">&copy; 2024</p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

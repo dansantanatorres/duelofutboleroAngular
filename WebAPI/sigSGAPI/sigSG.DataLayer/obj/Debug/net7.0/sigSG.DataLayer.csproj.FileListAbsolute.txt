@@ -1,0 +1,17 @@
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\bin\Debug\net7.0\sigSG.DataLayer.deps.json
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\bin\Debug\net7.0\sigSG.DataLayer.runtimeconfig.json
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\bin\Debug\net7.0\sigSG.DataLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\bin\Debug\net7.0\sigSG.DataLayer.pdb
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\bin\Debug\net7.0\sigSG.ModelsLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\bin\Debug\net7.0\sigSG.ModelsLayer.pdb
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\obj\Debug\net7.0\sigSG.DataLayer.csproj.AssemblyReference.cache
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\obj\Debug\net7.0\sigSG.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\obj\Debug\net7.0\sigSG.DataLayer.AssemblyInfoInputs.cache
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\obj\Debug\net7.0\sigSG.DataLayer.AssemblyInfo.cs
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\obj\Debug\net7.0\sigSG.DataLayer.csproj.CoreCompileInputs.cache
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\obj\Debug\net7.0\sigSG.DataLayer.csproj.CopyComplete
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\obj\Debug\net7.0\sigSG.DataLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\obj\Debug\net7.0\refint\sigSG.DataLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\obj\Debug\net7.0\sigSG.DataLayer.pdb
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\obj\Debug\net7.0\sigSG.DataLayer.genruntimeconfig.cache
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.DataLayer\obj\Debug\net7.0\ref\sigSG.DataLayer.dll

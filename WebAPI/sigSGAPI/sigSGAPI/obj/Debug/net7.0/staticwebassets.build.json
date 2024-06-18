@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3cSwE6UNUXHI7YlRKb8jSk7AUlobPIVc9UriBrU+eQk=",
+  "Source": "sigSGAPI",
+  "BasePath": "_content/sigSGAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

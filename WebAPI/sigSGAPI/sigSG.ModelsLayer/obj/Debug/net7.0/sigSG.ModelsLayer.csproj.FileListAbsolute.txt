@@ -1,0 +1,12 @@
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\bin\Debug\net7.0\sigSG.ModelsLayer.deps.json
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\bin\Debug\net7.0\sigSG.ModelsLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\bin\Debug\net7.0\sigSG.ModelsLayer.pdb
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\obj\Debug\net7.0\sigSG.ModelsLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\obj\Debug\net7.0\sigSG.ModelsLayer.AssemblyInfoInputs.cache
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\obj\Debug\net7.0\sigSG.ModelsLayer.AssemblyInfo.cs
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\obj\Debug\net7.0\sigSG.ModelsLayer.csproj.CoreCompileInputs.cache
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\obj\Debug\net7.0\sigSG.ModelsLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\obj\Debug\net7.0\refint\sigSG.ModelsLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\obj\Debug\net7.0\sigSG.ModelsLayer.pdb
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\obj\Debug\net7.0\ref\sigSG.ModelsLayer.dll
+C:\Proyectos\WebAPI\sigSGAPI\sigSG.ModelsLayer\obj\Debug\net7.0\sigSG.ModelsLayer.csproj.AssemblyReference.cache

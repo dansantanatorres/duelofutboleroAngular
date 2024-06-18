@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqaSVDx4gGsTF7SH/GEbSEsChnknWywno9ERpCn0EAHeA6iA8zAVxcK3AnRdZxu860nGichvXolEA68HFRi/mw==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\WebAPI\\sigSGAPI\\sigSG.ModelsLayer\\sigSG.ModelsLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joan.mortheiru\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
